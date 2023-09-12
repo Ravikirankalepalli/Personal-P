@@ -1,0 +1,21 @@
+.box {
+  text-align: center;
+  color: #c40441;
+  font-family: sans-serif;
+  background: transparent;
+}
+
+body {
+  background-color: cyan;
+  text-align: center;
+  padding: 10%;
+}
+
+.box a {
+  color: black;
+  text-decoration: none;
+}
+
+.box p {
+  font-weight: bold;
+}
